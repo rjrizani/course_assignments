@@ -32,6 +32,8 @@ https://www.imperva.com/learn/application-security/web-scraping-attack/#:~:text=
 
 5. **What challenges might arise when using web scraping to collect data from websites?**  
 
+
+
 6. **What careers can you pursue if you have web scraping skills?**  
 
 7. **Find 3 to 5 companies that offer web scraping or data extraction services. List their websites and analyze how you think you can compete with them.**  
