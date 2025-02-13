@@ -19,6 +19,20 @@ This quiz is designed to check your understanding of the previous topic. Answer 
 Internet is the network that connect the computer across world.[1]  
 [1] https://edu.gcfglobal.org/en/internetbasics/what-is-the-internet/1/
 
+
+## If You Have No IT Background
+If you are new to IT or have no experience in coding, please start with the Pre-Class module to gain a fundamental understanding of web scraping, networking, the internet, and APIs. This will give you the foundational knowledge you need before diving into more complex topics.
+
+## If You Have Practical Coding or Web Development Experience
+If you already have some practical experience with coding and web development, feel free to start from Module 03: Python Basics. This module will provide you with the necessary Python knowledge to apply web scraping techniques.
+
+**Important Reminder**
+
+In this course, you will be required to explore the answers to exercises on your own using articles you find on the internet—without the use of AI tools. This approach is essential for developing critical thinking and research skills, which are key to becoming a successful developer.
+
+
+---
+
 If you find any questions challenging, make a note of them and bring them up in the next session for discussion.  
 **Good Luck!**
 
