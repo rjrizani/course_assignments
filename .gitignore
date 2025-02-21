@@ -165,4 +165,5 @@ answer/
 Pip*
 test*
 *.csv
+*.pdf
 on-progress

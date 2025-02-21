@@ -5,34 +5,71 @@ Welcome to the **Python Web Scraping Course** brought to you by **Remote Worker 
 
 ### Course Overview:
 This course covers the following topics:
-- **Python programming**: Learn the basics of Python and how to use it for web scraping.
-- **Web development fundamentals**: Understand the basic structure of websites and how to interact with them.
-- **APIs**: Learn how to connect to and retrieve data from APIs.
-- **Git & GitHub**: Learn the fundamentals of version control with Git and how to manage your projects using GitHub.
-- **Web scraping techniques**: Discover various methods and best practices for extracting data from websites.
-- **Advanced web scraping**: Explore more complex scraping techniques, including handling dynamic websites and working with headless browsers.
-- **Remote work careers**: Learn how to build a successful career as a remote worker in the tech industry.
 
-This course is ideal for you if:
+**Module 0: Pre-Class - Starter for Non-IT Learners**  
+This introductory module helps you understand the basics of web scraping as a career, its applications, and freelancing opportunities. You will also learn fundamental concepts such as networking, internet protocols, and APIs to build a strong foundation for the course.  
 
-- ✅ You have **no prior coding experience** but are eager to learn. This course starts from the basics but gradually covers advanced topics. Even if you have prior coding experience, you may find new insights in later modules.
+**Module 1: Fundamental Programming**  
+This module focuses on problem-solving techniques and algorithmic thinking essential for software engineering. You will engage in quizzes and exercises to develop your ability to analyze problems, conduct self-research, and create efficient solutions.  
 
-- ✅ You enjoy working with **data and the web** and want to explore how to gather information programmatically.
-- ✅ You’re passionate about learning new skills and are **ready to compete with global talent** in the digital space.
+**Module 2: Basic Web Development**  
+A foundational understanding of HTML and CSS is essential for web scraping. In this module, you will learn how web pages are structured and how to analyze their components for data extraction.  
+
+**Module 3: Python Fundamentals**  
+Python is the primary language for web scraping. This module covers Python syntax and core programming concepts. If you already have Python experience, you can skip directly to the project.  
+
+**Module 4: Static Web Scraping**  
+This module introduces ethical web scraping and fundamental techniques for extracting data from static web pages using Python libraries.  
+
+**Module 5: API Scraping**  
+APIs allow direct access to structured data without parsing HTML. In this module, you will learn how to interact with APIs and extract data efficiently.  
+
+**Module 6: Dynamic Web Scraping**  
+Modern websites often load content dynamically using JavaScript. This module teaches you how to extract such data using browser automation tools.  
+
+**Module 7: Python Intermediate**  
+This module introduces essential Python modules and techniques to improve your efficiency in web scraping projects.  
+
+**Module 8: Python Advanced**  
+Advanced Python concepts, including performance optimization, Object-Oriented Programming (OOP), and data transformation using pandas, are covered in this module.  
+
+**Module 9: Bypassing Anti-Bot Techniques**  
+Websites implement anti-scraping technologies to block bots. In this module, you will learn techniques to overcome these restrictions.  
+
+**Module 10: Advanced Web Scraping (Under Development)**  
+This module expands your skills beyond website scraping by introducing document scraping, chat platform data extraction, and more.  
+
+**Module 11: Deployed Solutions (Under Development)**  
+This module covers project deployment, ensuring your web scraping solutions remain functional, scalable, and accessible.  
+
+**Module 12: Beyond Web Scraping (Under Development)**  
+In this module, you will explore additional skills related to automation, data processing, and other advanced techniques to enhance your expertise.  
+
+**Module 13: Remote Work & Freelancing (Under Development)**  
+The final module focuses on building your personal brand as a remote web scraping professional, helping you secure freelance jobs and remote work opportunities.  
+
+### **Course Format**  
+✅ **Introduction Topic** – Understand key concepts and how they fit into the course.  
+✅ **Coding Practice** – Apply concepts through hands-on exercises.  
+✅ **To-Do (Assignments)** – Complete tasks to reinforce real-world application.  
+✅ **Quizzes** – Test your understanding and solidify learning.  
+✅ **Reflection** – Summarize key takeaways and insights.  
+✅ **Exploration** – Dive deeper into topics and expand your knowledge.
+
+---
+
+### Is This Course Right for You?
+This course is ideal for you if:  
+✅ You have **no prior coding experience** but are eager to learn. This course starts from the basics but gradually covers advanced topics. Even if you have prior coding experience, you may find new insights in later modules.  
+✅ You enjoy working with **data and the web** and want to explore how to gather information programmatically.  
+✅ You’re passionate about learning new skills and are **ready to compete with global talent** in the digital space.
 
 ### Prerequisites:
 - Ability to **self-learn** and troubleshoot.
 - A **laptop** and a reliable **internet connection**.
 - Estimated learning time: ~400 hours (varies based on learning pace and prior experience). You can learn at your own speed.
 
-### Course Structure:
-Each module consists of the following components to guide your learning and practice effectively:
-1. **Introduction Topic**: Every module begins with an introductory section that outlines the key concepts you will be learning. This section provides a clear understanding of what the module covers and how it fits into the broader course.
-2. **Coding Practice**: After the introduction, you will engage in hands-on coding exercises to solidify the concepts you've learned. These exercises will provide practical experience in web scraping and Python programming.
-3. **To-Do (Assignments)**: Each module includes specific tasks and exercises that you must complete. These assignments will help you apply your new skills in real-world contexts. Completing them will deepen your understanding of the material.
-4. **Quizzes**: Some modules contain quizzes to test your understanding of the material. Answering these quizzes will reinforce your learning and ensure you're mastering the key concepts.
-5. **Reflection**: At the end of each module, you'll be asked to reflect on what you've learned. Write a brief summary or share your personal opinion based on the material covered. This reflection helps internalize the knowledge and connect it with your own experiences.
-6. **Exploration**: This section encourages you to dive deeper into specific topics of interest. The exploration activities challenge you to think critically and creatively, prompting you to discover additional resources or experiment with your coding skills.
+---
 
 ### Where to Start:
 #### If You’re a Beginner
