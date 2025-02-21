@@ -5,22 +5,15 @@ This project is designed to assess your proficiency in basic web development. If
 The app consists of the following pages:
 
 - **Home Page**
+![home](images/home_page.png)
 - **About Page**
+![about](images/about_page.png)
 - **Contact Page**
+![contact](images/contact_page.png)
 - **Form Submission Page**
-
-### Project Structure
-
-The folder `preview_project_basic_web` contains the following screenshots:
-
-- `home_page.png` - Screenshot of the Home Page.
-- `about_page.png` - Screenshot of the About Page.
-- `contact_page.png` - Screenshot of the Contact Page.
-- `form_submission.png` - Screenshot of the Form Submission Page.
+![submit](images/form_submition.png)
 
 ### Instructions
-
-
 1. **Setup the Project:**
    - If using HTML, CSS, and JavaScript, create separate `.html`, `.css`, and `.js` files for each page.
    - You can use any text editor (like VS Code, Sublime Text, etc.) to write your code.
